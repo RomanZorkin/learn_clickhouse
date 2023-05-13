@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "clickhouse-db"
+version = "0.1.0"
+description = ""
+authors = ["astra <zorkin.roman@gmail.com>"]
+readme = "README.md"
+packages = [{include = "clickhouse_db"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipython = "^8.13.2"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
