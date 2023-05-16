@@ -178,6 +178,9 @@ May 14 00:21:31 vm1452577 sshd[1344134]: Invalid user ftptest from 51.79.146.182
 
 ## 4.2. Анализ данных
 
+<img src="./data_auth/frequency.png" width="580"/>
+
 <img src="./data_auth/geozone.png" width="480"/>
 
 <img src="./data_auth/user.png" width="480"/>
+
