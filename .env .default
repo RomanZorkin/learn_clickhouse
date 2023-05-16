@@ -1,0 +1,11 @@
+# bash config
+PWD=<пароль пользователя с правами root>
+
+# clichouse
+DBHOST=000.000.000.000
+DBPORT=8123
+DBUSER=<имя пользователя базы данных>
+DBPWD=<пароль пользователя базы данных>
+
+# ip adress find api key https://ipregistry.co/
+API_IP_KEY=<ключ>

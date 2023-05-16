@@ -10,6 +10,8 @@ packages = [{include = "clickhouse_db"}]
 python = "^3.10"
 ipython = "^8.13.2"
 jupyter = "^1.0.0"
+sh = "^2.0.3"
+clickhouse-connect = "^0.5.24"
 
 
 [build-system]

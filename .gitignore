@@ -134,4 +134,5 @@ bot/users/*.txt
 /config
 /my_config
 /users
+*.log
 myusers.xml
