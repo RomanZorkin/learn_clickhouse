@@ -177,6 +177,4 @@ May 14 00:21:31 vm1452577 sshd[1344134]: Invalid user ftptest from 51.79.146.182
 Далее по всем полученным ip адресам в таблицу ip_geo венсем данным о геозонах адресов
 
 
-![image description](./data_auth/geozone.png.png)
-
-<img src="./data_auth/geozone.png.png" width="128"/>
+<img src="./data_auth/geozone.png" width="400"/>
