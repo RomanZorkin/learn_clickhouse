@@ -135,7 +135,7 @@ SELECT * FROM helloworld.my_first_table
 
 
 # 3. Получение исходных данных
-Пример кода в файле start.ipynb
+Пример кода в файле **start.ipynb**
 
 Данные будем получать из файлов типа auth.log расположенного в дирректории /var/log.
 
@@ -145,7 +145,7 @@ SELECT * FROM helloworld.my_first_table
 
 ## 4.1. Загрузка данных
 
-Пример кода в файле db_handler.ipynb
+Пример кода в файле **db_handler.ipynb**
 
 В базе была создана таблица auth_log c полями
 
